@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/SharanBagavathiyappan/Simple_CRM_Project/static/css/main.d9d2b7af.css",
+    "main.js": "/SharanBagavathiyappan/Simple_CRM_Project/static/js/main.0b0bee55.js",
+    "static/js/885.d5f05b41.chunk.js": "/SharanBagavathiyappan/Simple_CRM_Project/static/js/885.d5f05b41.chunk.js",
+    "static/js/787.09e96373.chunk.js": "/SharanBagavathiyappan/Simple_CRM_Project/static/js/787.09e96373.chunk.js",
+    "static/media/primeicons.svg": "/SharanBagavathiyappan/Simple_CRM_Project/static/media/primeicons.e1441b135b3ca9ad643c.svg",
+    "static/media/primeicons.eot": "/SharanBagavathiyappan/Simple_CRM_Project/static/media/primeicons.d44157bdfa026dc877af.eot",
+    "static/media/primeicons.woff": "/SharanBagavathiyappan/Simple_CRM_Project/static/media/primeicons.10d3152104f2208ac82a.woff",
+    "static/media/primeicons.ttf": "/SharanBagavathiyappan/Simple_CRM_Project/static/media/primeicons.ea5358601d0a3fd6670b.ttf",
+    "static/media/crystalball.jpg": "/SharanBagavathiyappan/Simple_CRM_Project/static/media/crystalball.b189cdc204f4188a4125.jpg",
+    "static/media/crystal.avif": "/SharanBagavathiyappan/Simple_CRM_Project/static/media/crystal.af8c248c026e25b38055.avif",
+    "static/media/primeicons.woff2": "/SharanBagavathiyappan/Simple_CRM_Project/static/media/primeicons.78172950b335ccdb94e2.woff2",
+    "index.html": "/SharanBagavathiyappan/Simple_CRM_Project/index.html",
+    "main.d9d2b7af.css.map": "/SharanBagavathiyappan/Simple_CRM_Project/static/css/main.d9d2b7af.css.map",
+    "main.0b0bee55.js.map": "/SharanBagavathiyappan/Simple_CRM_Project/static/js/main.0b0bee55.js.map",
+    "885.d5f05b41.chunk.js.map": "/SharanBagavathiyappan/Simple_CRM_Project/static/js/885.d5f05b41.chunk.js.map",
+    "787.09e96373.chunk.js.map": "/SharanBagavathiyappan/Simple_CRM_Project/static/js/787.09e96373.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9d2b7af.css",
+    "static/js/main.0b0bee55.js"
+  ]
+}
