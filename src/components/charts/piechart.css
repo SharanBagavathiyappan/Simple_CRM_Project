@@ -1,0 +1,8 @@
+:root{
+    --pink-500:#f23f9d;
+    --blue-800:#6139e9;
+    --green-500:#f1effc;
+}
+.card{
+    width: 250px;
+}

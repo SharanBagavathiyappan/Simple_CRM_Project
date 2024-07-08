@@ -1,0 +1,27 @@
+.tabContent {
+    padding-left: 10px;
+  }
+  
+  .tabSub h3 {
+    font-weight: 800;
+  }
+  
+  .tabOut{
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-top: 20px;
+      padding-bottom: 20px;
+      background-color: white;
+      padding: 10px;
+      /* margin: 10px; */
+  }
+  
+  .tabOut .pro{
+      font-size: 20px;
+      font-weight: 800;
+  }
+  .inp{
+      margin-right: 10px;
+      width: 200px;
+  }
